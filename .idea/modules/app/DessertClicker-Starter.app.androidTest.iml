@@ -21,6 +21,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/00fd4d988cd5c65cbf534d75f37c7560/transformed/jetified-kotlin-stdlib-jdk7-1.7.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/436e6fd51c55a2203e4465225ead8353/transformed/appcompat-1.4.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/6a9a6e35a5255e074d32f4270c0436c7/transformed/constraintlayout-2.2.0-alpha03-api.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/e62aa67d195bb5bcc68fee9741c75738/transformed/jetified-timber-5.0.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/245105e1d0e4c473cafd9aa2ec555dd4/transformed/jetified-viewbinding-7.2.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a1af70568b330adb2406d62e43953830/transformed/jetified-lifecycle-runtime-ktx-2.2.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/89b1e31d8e21cf4c728c3af648f35a46/transformed/jetified-lifecycle-process-2.2.0-api.jar</arg>
@@ -150,6 +151,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout:2.2.0-alpha03@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.jakewharton.timber:timber:5.0.1@aar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="DessertClicker-Starter.app.main" />
 </module>

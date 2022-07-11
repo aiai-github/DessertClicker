@@ -1,14 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
 MERGED from [androidx.databinding:databinding-adapters:7.2.1] C:\Users\kzkg1216\.gradle\caches\transforms-3\3883c9b1d9a2ccfb31fbdd92161ff143\transformed\databinding-adapters-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-ktx:7.2.1] C:\Users\kzkg1216\.gradle\caches\transforms-3\e619931828b0cb18981ff10038783c69\transformed\jetified-databinding-ktx-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.databinding:databinding-runtime:7.2.1] C:\Users\kzkg1216\.gradle\caches\transforms-3\5082be3fcb4d3a71c6bba6b7cd85008d\transformed\databinding-runtime-7.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0-alpha03] C:\Users\kzkg1216\.gradle\caches\transforms-3\c39a9dc2b2dc78088844ac0838415c12\transformed\constraintlayout-2.2.0-alpha03\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\kzkg1216\.gradle\caches\transforms-3\8e898484a1c13ffd3f7c43ca6077999f\transformed\appcompat-1.4.2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\kzkg1216\.gradle\caches\transforms-3\f4dc73237314f714593c0bf317a2162d\transformed\jetified-timber-5.0.1\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kzkg1216\.gradle\caches\transforms-3\eb82820a64984296b99065280094f58e\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.activity:activity:1.2.4] C:\Users\kzkg1216\.gradle\caches\transforms-3\e0bfa1c320b067305bbce1c1b9c81aa9\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.4.2] C:\Users\kzkg1216\.gradle\caches\transforms-3\d8e0b58101afda92dbda9add27e07621\transformed\jetified-appcompat-resources-1.4.2\AndroidManifest.xml:17:1-24:12
@@ -38,27 +39,29 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kzkg1216\.gradle\c
 MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\kzkg1216\.gradle\caches\transforms-3\cb2d0440c8a7c6ea849a999c3c918207\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\kzkg1216\.gradle\caches\transforms-3\672676c0506c6d442e9db27fee4e6188\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\kzkg1216\.gradle\caches\transforms-3\e453f7bf1de35bebe09f8d7dbd9ad75e\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
-INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
+INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
 	package
 		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:18:5-49
 		INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
 		INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-37:12
+		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:1-38:12
 		INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:17:11-69
 application
-ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:5-35:19
+ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:20:5-36:19
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0-alpha03] C:\Users\kzkg1216\.gradle\caches\transforms-3\c39a9dc2b2dc78088844ac0838415c12\transformed\constraintlayout-2.2.0-alpha03\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0-alpha03] C:\Users\kzkg1216\.gradle\caches\transforms-3\c39a9dc2b2dc78088844ac0838415c12\transformed\constraintlayout-2.2.0-alpha03\AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\kzkg1216\.gradle\caches\transforms-3\f4dc73237314f714593c0bf317a2162d\transformed\jetified-timber-5.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\kzkg1216\.gradle\caches\transforms-3\f4dc73237314f714593c0bf317a2162d\transformed\jetified-timber-5.0.1\AndroidManifest.xml:7:5-20
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kzkg1216\.gradle\caches\transforms-3\79eab2ef90e93597174e2d09662c3233\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.emoji2:emoji2:1.0.0] C:\Users\kzkg1216\.gradle\caches\transforms-3\79eab2ef90e93597174e2d09662c3233\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:25:5-35:19
 MERGED from [androidx.core:core:1.7.0] C:\Users\kzkg1216\.gradle\caches\transforms-3\ae9616d13e5213c0aa09c43a28ce0756\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
@@ -83,22 +86,24 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\kzkg1216\.gradle\c
 		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:21:9-35
 	android:theme
 		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:26:9-40
+	android:name
+		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:9-43
 activity#com.example.android.dessertclicker.MainActivity
-ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:9-34:20
+ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:9-35:20
 	android:exported
-		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:13-36
+		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:29:13-36
 	android:name
-		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:27:19-81
+		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:28:19-81
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:29:13-33:29
+ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:30:17-69
+ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:30:25-66
+		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:32:17-77
+ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:32:27-74
+		ADDED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml:33:27-74
 uses-sdk
 INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\kzkg1216\Documents\AndroidStudioProjects\DessertClicker-Starter\app\src\main\AndroidManifest.xml
@@ -113,6 +118,8 @@ MERGED from [androidx.constraintlayout:constraintlayout:2.2.0-alpha03] C:\Users\
 MERGED from [androidx.constraintlayout:constraintlayout:2.2.0-alpha03] C:\Users\kzkg1216\.gradle\caches\transforms-3\c39a9dc2b2dc78088844ac0838415c12\transformed\constraintlayout-2.2.0-alpha03\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\kzkg1216\.gradle\caches\transforms-3\8e898484a1c13ffd3f7c43ca6077999f\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.4.2] C:\Users\kzkg1216\.gradle\caches\transforms-3\8e898484a1c13ffd3f7c43ca6077999f\transformed\appcompat-1.4.2\AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\kzkg1216\.gradle\caches\transforms-3\f4dc73237314f714593c0bf317a2162d\transformed\jetified-timber-5.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.timber:timber:5.0.1] C:\Users\kzkg1216\.gradle\caches\transforms-3\f4dc73237314f714593c0bf317a2162d\transformed\jetified-timber-5.0.1\AndroidManifest.xml:5:5-44
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kzkg1216\.gradle\caches\transforms-3\eb82820a64984296b99065280094f58e\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\kzkg1216\.gradle\caches\transforms-3\eb82820a64984296b99065280094f58e\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.activity:activity:1.2.4] C:\Users\kzkg1216\.gradle\caches\transforms-3\e0bfa1c320b067305bbce1c1b9c81aa9\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41

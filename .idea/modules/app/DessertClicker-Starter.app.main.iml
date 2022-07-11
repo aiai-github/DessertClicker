@@ -51,9 +51,10 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/2c3e03199f27f09a998e1252886b8dfb/transformed/jetified-kotlinx-coroutines-android-1.4.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/1b99bec85e80f7e0f8bca4be5f8086f7/transformed/jetified-kotlinx-coroutines-core-jvm-1.4.1.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/00fd4d988cd5c65cbf534d75f37c7560/transformed/jetified-kotlin-stdlib-jdk7-1.7.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/e62aa67d195bb5bcc68fee9741c75738/transformed/jetified-timber-5.0.1-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f8479b9e3896ac43c69931ba54e11558/transformed/jetified-kotlin-stdlib-1.7.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/a6a2b9659bed4bce33dc20a3c54d73ef/transformed/jetified-kotlin-stdlib-common-1.7.10.jar</arg>
-                <arg>$USER_HOME$/.gradle/caches/transforms-3/7c57899466cbcdbc2e78b9c8de16594f/transformed/jetified-annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/transforms-3/3da599e8e119a5fbfbf5c3abf97a4aea/transformed/jetified-annotations-20.1.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/63ed3bbae13c919d3e8bec2a4caadd11/transformed/jetified-startup-runtime-1.0.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/28895024f69877eefb5fc6e2171e8b4e/transformed/jetified-annotation-experimental-1.1.0-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/6a9a6e35a5255e074d32f4270c0436c7/transformed/constraintlayout-2.2.0-alpha03-api.jar</arg>
@@ -123,7 +124,7 @@
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.4.1" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.10" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10" level="project" />
-    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:20.1.0" level="project" />
     <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.10" level="project" />
     <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
     <orderEntry type="library" name="Gradle: androidx.databinding:databinding-runtime:7.2.1@aar" level="project" />
@@ -157,5 +158,6 @@
     <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout:2.2.0-alpha03@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.jakewharton.timber:timber:5.0.1@aar" level="project" />
   </component>
 </module>
